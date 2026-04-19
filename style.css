@@ -1,4 +1,4 @@
-/* üåç The Turkish Palate - Premium Design System */
+/* 🌍 The Turkish Palate - Premium Design System */
 :root {
     --primary-color: #8B0000; /* Deep Pomegranate */
     --secondary-color: #B8860B; /* Dark Goldenrod */
@@ -166,7 +166,7 @@ header {
 }
 
 .recipe-intro::before {
-    content: '‚Äú';
+    content: '“';
     position: absolute;
     top: -20px;
     left: 50%;
